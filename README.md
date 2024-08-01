@@ -1,5 +1,7 @@
 <h1 align="center"> Decodificador de Texto </h1>
 
+<img src="./assets/Decodificador1.JPG" alt="Página principal do jogo">
+
 # Sobre o Projeto
 
 Este decodificador foi desenvolvido como parte do primeiro desafio do curso Oracle + Alura, turma 7 ONE. O objetivo foi colocar em prática tudo o que foi aprendido durante o curso de lógica de programação em JavaScript, HTML e CSS.
